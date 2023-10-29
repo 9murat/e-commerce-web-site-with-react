@@ -1,0 +1,25 @@
+
+//! Navbar kısmı fixed olacak 
+//! gelen değerlerin sayıları gösterilecek .
+//! kullanıcı giriş çıkı olacak 
+//! loading kısmı css ile sonsuz döngü ile yapılacak 
+//! Beğenilenler 
+//! Listeye eklenenler
+//! navbarright classında props olarak itemCount gelen kısmı düzelt , hatalı değer veriyor
+//! cart page kısmında arttır indir fonks. yap . Sİlme işlemi yap
+//! complete cart kısmını ytap
+//! selcted products kısmında seçili ürünleri carts.length den alıyor . tüm ürünleri almıuor
+
+
+
+// const myArray = [1, 2, 3, 4, 5];
+// const searchValue = 6;
+
+// if (myArray.indexOf(searchValue) === -1) {
+//   console.log("Öğe bulunamadı.");
+// } else {
+//   console.log("Öğe bulundu.");
+// }
+
+//! ürün değerde yoksa . -1 ise .
+//? ürün varsa  !-1  ürün varsa
